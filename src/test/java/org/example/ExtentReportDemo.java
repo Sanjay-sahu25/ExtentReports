@@ -39,6 +39,7 @@ public class ExtentReportDemo {
         extent.flush();
 
         //test.addScreenCaptureFromBase64String();
+        //....
 
 
     }
